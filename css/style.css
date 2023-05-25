@@ -2,14 +2,6 @@
     box-sizing: border-box;
 }
 
-html {
-    font-size: 100rem;
-}
-
 html, body {
     margin: 0;
-}
-
-body {
-    font-size: 0.16rem;
 }
